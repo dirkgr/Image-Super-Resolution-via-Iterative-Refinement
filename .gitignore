@@ -130,3 +130,13 @@ dmypy.json
 .pyre/
 
 *.lmdb
+
+# IntelliJ
+/*.iml
+/.idea/
+
+# Datasets
+/original_datasets/
+
+# Models
+/*.pth
